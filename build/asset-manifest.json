@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git@github.com:Grevcoder/Redux-code.git/static/css/main.073c9b0a.css",
+    "main.js": "/git@github.com:Grevcoder/Redux-code.git/static/js/main.a30a1abf.js",
+    "static/js/787.e0a67f80.chunk.js": "/git@github.com:Grevcoder/Redux-code.git/static/js/787.e0a67f80.chunk.js",
+    "index.html": "/git@github.com:Grevcoder/Redux-code.git/index.html",
+    "main.073c9b0a.css.map": "/git@github.com:Grevcoder/Redux-code.git/static/css/main.073c9b0a.css.map",
+    "main.a30a1abf.js.map": "/git@github.com:Grevcoder/Redux-code.git/static/js/main.a30a1abf.js.map",
+    "787.e0a67f80.chunk.js.map": "/git@github.com:Grevcoder/Redux-code.git/static/js/787.e0a67f80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a30a1abf.js"
+  ]
+}
